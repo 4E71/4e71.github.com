@@ -1,5 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+
 permalink: /:categories/:year/:month/:day/:title 
 auto: true
 pygments: true
@@ -8,11 +9,10 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+production_url : http://4E71.github.com # or your custom domain name
+title : 4E71's Blog
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  github :  plusjade/jekyll-bootstrap-core
+
+  
