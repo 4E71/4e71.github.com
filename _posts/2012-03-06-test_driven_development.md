@@ -37,14 +37,13 @@ Create your initial method/function.
 // }
 
 private static void Test_CountTwos(int n) {
-
-	Console.WriteLine("The number of twos in {0} are: {1}", n, AlgUtil.CountTwos(n));
+  Console.WriteLine("The number of twos in {0} are: {1}", n, AlgUtil.CountTwos(n));
 }
 {% endhighlight %}
  
 Create your initial test method.
 {% highlight c# %}
-// 2. Create a skeleton method/function and test.
+// 2. Create a skeleton method/function.
 
 using System;
 
